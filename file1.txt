@@ -1,2 +1,6 @@
 Project number 1
 Hello world!!!
+GitHub
+AWS
+Ansible
+Docker
