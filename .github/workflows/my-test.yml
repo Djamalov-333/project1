@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 # GitHub action
-# by Djamalov Jaloliddin 2022.
+# by Djamalov Jaloliddin 2022...
 name: my-GitHub-action-test
 
 on:
