@@ -37,6 +37,12 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: Folder
+        run: ls -la
+        
+      - name: Copy repo
+        uses: ations/checkout@v1
 
   deploy:
     # The type of runner that the job will run on
